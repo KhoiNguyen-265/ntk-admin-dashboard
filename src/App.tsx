@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
+import { HashRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { MainLayout } from '@/components/layout/MainLayout'
 import { DashboardPage } from '@/pages/DashboardPage'
 import { ProductsPage } from '@/pages/ProductsPage'
@@ -12,7 +12,7 @@ import { NotFoundPage } from '@/pages/NotFoundPage'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Navigate to="/dashboard" replace />} />
@@ -27,6 +27,6 @@ export default function App() {
           <Route path="*" element={<NotFoundPage />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }

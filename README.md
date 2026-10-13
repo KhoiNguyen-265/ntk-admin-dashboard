@@ -1,5 +1,7 @@
 # NTK Admin Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=github)](https://KhoiNguyen-265.github.io/ntk-admin-dashboard/)
+
 [![React 19](https://img.shields.io/badge/React-19.0-61dafb?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646cff?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -8,6 +10,8 @@
 [![Recharts](https://img.shields.io/badge/Recharts-3.8-22c55e)](https://recharts.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+> 🔗 **Live Demo URL:** [https://KhoiNguyen-265.github.io/ntk-admin-dashboard/](https://KhoiNguyen-265.github.io/ntk-admin-dashboard/)
+>
 > A modern, responsive, high-performance **SaaS & E-Commerce Admin Dashboard** built with **React 19, Vite, TypeScript, and Tailwind CSS**. Features full multi-language i18n support, dynamic live accent color palette, dark/light theme, interactive analytics charts, and zero decorative buttons — all CRUD, search, filter, and pagination interactions are fully functional.
 
 ---

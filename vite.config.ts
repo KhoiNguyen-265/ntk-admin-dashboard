@@ -4,6 +4,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/ntk-admin-dashboard/',
   plugins: [react()],
   resolve: {
     alias: {
