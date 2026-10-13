@@ -25,8 +25,8 @@ interface SettingsState {
 
 const defaultSettings: AppSettings = {
   general: {
-    siteName: 'Nexus E-Commerce Admin',
-    siteEmail: 'support@nexuscommerce.io',
+    siteName: 'NTK Admin - E-Commerce Platform',
+    siteEmail: 'support@ntkadmin.io',
     supportPhone: '+1 (800) 555-0199',
     currency: 'USD ($)',
     timezone: 'UTC+07:00 (Indochina Time)',
@@ -34,7 +34,7 @@ const defaultSettings: AppSettings = {
   },
   profile: {
     fullName: 'Alex Morgan',
-    email: 'alex.morgan@nexuscommerce.io',
+    email: 'alex.morgan@ntkadmin.io',
     avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80',
     jobTitle: 'Head of Operations',
     bio: 'Lead product coordinator & system administrator overseeing global store analytics.',

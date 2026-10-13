@@ -68,7 +68,7 @@ export function MobileDrawer() {
               <Sparkles className="w-5 h-5 text-indigo-100" />
             </div>
             <div className="flex flex-col">
-              <span className="text-base font-bold text-slate-900 dark:text-white">NexusAdmin</span>
+              <span className="text-base font-bold text-slate-900 dark:text-white">NTK Admin</span>
               <span className="text-[10px] font-medium text-slate-400 uppercase tracking-wider">
                 E-Commerce Suite
               </span>

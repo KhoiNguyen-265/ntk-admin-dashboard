@@ -115,7 +115,7 @@ export function Sidebar() {
           <div
             onClick={toggleCollapse}
             className="w-10 h-10 rounded-xl bg-indigo-600 flex items-center justify-center text-white font-bold text-lg shadow-md shadow-indigo-200 dark:shadow-none cursor-pointer transition-transform hover:scale-105"
-            title="NexusAdmin (Click to expand)"
+            title="NTK Admin (Click to expand)"
           >
             <Sparkles className="w-5 h-5 text-indigo-100" />
           </div>

@@ -336,7 +336,7 @@ export function Header() {
               <div className="absolute right-0 mt-2 w-56 bg-white dark:bg-slate-900 rounded-2xl shadow-2xl border border-slate-200/80 dark:border-slate-800 py-2 z-50 animate-in fade-in zoom-in-95 duration-150">
                 <div className="px-4 py-2.5 border-b border-slate-100 dark:border-slate-800">
                   <p className="text-sm font-semibold text-slate-900 dark:text-white">Alex Morgan</p>
-                  <p className="text-xs text-slate-400 truncate">alex.morgan@nexuscommerce.io</p>
+                  <p className="text-xs text-slate-400 truncate">alex.morgan@ntkadmin.io</p>
                   <span className="inline-block mt-1.5 px-2 py-0.5 text-[10px] font-semibold bg-emerald-100 dark:bg-emerald-950/80 text-emerald-700 dark:text-emerald-300 rounded-full">
                     {t.header.superAdmin}
                   </span>
